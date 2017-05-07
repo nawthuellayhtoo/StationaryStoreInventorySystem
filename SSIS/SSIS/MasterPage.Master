@@ -1,0 +1,329 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="SSIS.MasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Montserrat" />
+    <link rel="stylesheet" href="Styles/StyleSheet.css" />
+    <!--Datatable-->
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"></script>
+    <script src="https://cdn.datatables.net/1.10.13/css/dataTables.bootstrap.min.css"></script>
+    <script src="https://cdn.datatables.net/responsive/2.1.1/css/responsive.bootstrap.min.css"></script>
+    <!--Datatable-->
+
+    <!--Script-->
+    <script src="~/Scripts/customjs.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://cdn.datatables.net/1.10.13/js/jquery.dataTables.min.js"></script>
+
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.13/css/dataTables.bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.1.1/css/responsive.bootstrap.min.css" />
+
+    <script src="https://cdn.datatables.net/1.10.13/js/dataTables.bootstrap.min.js"></script>
+    <script src="https://cdn.datatables.net/responsive/2.1.1/js/dataTables.responsive.min.js"></script>
+    <script src="https://cdn.datatables.net/responsive/2.1.1/js/responsive.bootstrap.min.js"></script>
+    <!--Script-->
+    <!--Footable-->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/jquery-footable/0.1.0/css/footable.min.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-footable/0.1.0/js/footable.min.js"></script>
+    <!--Footable-->
+    <!-- For Title-->
+    <title>
+        <asp:ContentPlaceHolder ID="Title" runat="server">
+        </asp:ContentPlaceHolder>
+    </title>
+    <!-- End of Title -->
+    <style>
+        .bg-4 {
+            background-color: #2f2f2f; /* Black Gray */
+            color: #fff;
+        }
+
+        .container-fluid1 {
+            padding-top: 70px;
+            padding-bottom: 70px;
+        }
+
+        footer .glyphicon {
+            font-size: 20px;
+            margin-bottom: 20px;
+            color: #f4511e;
+        }
+    </style>
+</head>
+<body>
+
+    <asp:Label ID="lbEmployeeTitle" runat="server" Visible="False"></asp:Label>
+    <asp:Label ID="lbEmployeeId" runat="server" Visible="False"></asp:Label>
+    <asp:Label ID="lbRepId" runat="server" Visible="False"></asp:Label>
+    <asp:Label ID="lbEmployeeDelegate" runat="server" Visible="False"></asp:Label>
+    <asp:Label ID="lbHeadDelegate" runat="server" Visible="False"></asp:Label>
+    <asp:Label ID="lbStoreManagerDelegate" runat="server" Visible="False"></asp:Label>
+    <asp:Label ID="lbStoreSupervisorDelegate" runat="server" Visible="False"></asp:Label>
+
+    <!-- Menu -->
+    <form id="form1" runat="server">
+
+        <h1><img src="../Styles/logo.png" height="60" /> Logic University SSIS</h1>
+        <nav class="navbar navbar-default">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+
+                </div>
+                <div class="collapse navbar-collapse" id="myNavbar">
+                    <ul class="nav navbar-nav navbar-left">
+
+                        <!-- Insert the relevant menu items according to user role -->
+                        <!-- DEPARTMENT START -->
+                        <!-- HEAD START -->
+
+                        <% if (lbEmployeeTitle.Text.Equals("Head")) %>
+                        <% { %>
+                        <% if (lbEmployeeDelegate.Text.Equals("False")) %>
+                        <% { %>
+                        <li><a href="../Department/RequisitionList.aspx">Requisition List</a></li>
+                        <li><a href="../Department/CatalogueList.aspx">Catalogue List</a></li>
+                        <li><a href="../Department/AssignDepartmentRepresentative.aspx">Assign Department Representative</a></li>
+                        <li><a href="../Department/DepartmentDelegate.aspx">Delegate</a></li>
+                        <li><a href="../Logout.aspx">Logout</a></li>
+                        <% } %>
+                        <% else %>
+                        <% { %>
+                        <li><a href="../Department/DepartmentDelegate.aspx">Delegate</a></li>
+                        <li><a href="../Logout.aspx">Logout</a></li>
+                        <% } %>
+                        <% } %>
+
+                        <!-- HEAD END -->
+                        <!-- EMPLOYEE START -->
+
+                        <% if (lbEmployeeTitle.Text.Equals("Employee")) %>
+                        <% { %>
+
+                        <li><a href="../Department/CatalogueList.aspx">Catalogue List</a></li>
+
+                        <% if (lbEmployeeId.Text.Equals(lbRepId.Text)) %>
+                        <% { %>
+
+                        <li class="dropdown">
+                            <a href = "#" class="dropdown-toggle" data-toggle="dropdown">Collection<span class="caret"></span></a>
+                            <ul class="dropdown-menu" role="menu">
+                                <li><a href="../Department/ReadyForCollectionList.aspx" > Ready For Collection List</a></li>
+                                <li><a href="../Department/ChangeCollectionPoint.aspx" > Change Collection Point</a></li>
+                            </ul>
+                        </li>
+
+                        <% } %>
+
+                        <% if (lbHeadDelegate.Text.Equals("True") && lbEmployeeDelegate.Text.Equals("True")) %>
+                        <% { %>
+
+                        <li><a href="../Department/RequisitionList.aspx">Requisition List</a></li>
+                        <li><a href="../Department/AssignDepartmentRepresentative.aspx">Assign Department Representative</a></li>
+
+                        <% } %>
+
+                        <% else %>
+                        
+                        <% { %>
+
+                        <li class="dropdown">
+                            <a href="..#" class="dropdown-toggle" data-toggle="dropdown">Requisition <span class="caret"></span></a>
+                            <ul class="dropdown-menu" role="menu">
+                                <li><a href="../Department/CreateRequisition.aspx">Create Requisition</a></li>
+                                <li><a href="../Department/RequisitionList.aspx">Requisition List</a></li>
+                            </ul>
+                        </li>
+
+                        <% } %>
+
+                        <li><a href="../Logout.aspx">Logout</a></li>
+
+                        <% } %> 
+
+                        <!-- EMPLOYEE END -->
+                        <!-- DEPARTMENT END -->
+
+                        <!-- STORE START -->
+                        <!-- CLERK START -->
+
+                        <% if (lbEmployeeTitle.Text.Equals("Clerk")) %>
+                        <% { %>
+                        <li class="dropdown">
+                            <a href="..#" class="dropdown-toggle" data-toggle="dropdown">Purchase Order<span class="caret">
+                            </span></a>
+                            <ul class="dropdown-menu" role="menu">
+                                <li><a href="../Store/CreatePO.aspx">Create Purchase Order</a></li>
+                                <li><a href="../Store/POList.aspx">Purchase Order List</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="..#" class="dropdown-toggle" data-toggle="dropdown">List <span class="caret"></span></a>
+                            <ul class="dropdown-menu" role="menu">
+                                <li><a href="../Store/RetrievalList.aspx">Retrieval List</a></li>
+                                <li><a href="../Store/DisbursementList.aspx">Disbursement List</a></li>
+                                <li><a href="../Store/InventoryList.aspx">Inventory List</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="..#" class="dropdown-toggle" data-toggle="dropdown">Adjustment Voucher<span class="caret">
+                            </span></a>
+                            <ul class="dropdown-menu" role="menu">
+                                <li><a href="../Store/CreateAdjustmentVoucher.aspx">Create Adjustment Voucher</a></li>
+                                <li><a href="../Store/AdjustmentVoucherList.aspx">Adjustment Voucher List</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="../Store/GenerateReport.aspx">Generate Report</a></li>
+                        <li><a href="../Store/ChangeCollectionTime.aspx">Change Collection Time</a></li>
+                        <li><a href="../Logout.aspx">Logout</a></li>
+
+                       <% } %> 
+
+                        <!-- CLERK END -->
+                        <!-- SUPERVISOR START -->
+
+                        <% if (lbEmployeeTitle.Text.Equals("Supervisor")) %>
+                        <% { %>
+
+                        <% if (lbEmployeeDelegate.Text.Equals("True")) %>
+                        <% { %>
+
+                        <li><a href="../Store/StoreDelegate.aspx">Delegate</a></li>
+                        <li><a href="../Logout.aspx">Logout</a></li>
+
+                        <% } %>
+
+                        <% else if (lbStoreManagerDelegate.Text.Equals("True"))%>
+                        <% { %>
+
+                        <li class="dropdown">
+                            <a href="..#" class="dropdown-toggle" data-toggle="dropdown">List <span class="caret"></span></a>
+                            <ul class="dropdown-menu" role="menu">
+                                <li><a href="../Store/POList.aspx">Purchase Order List</a></li>
+                                <li><a href="../Store/DisbursementList.aspx">Disbursement List</a></li>
+                                <li><a href="../Store/InventoryList.aspx">Inventory List</a></li>
+                                <li><a href="../Store/AdjustmentVoucherList.aspx">Adjustment Voucher List</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="../Store/GenerateReport.aspx">Generate Report</a></li>
+                        <li class="dropdown">
+                            <a href="..#" class="dropdown-toggle" data-toggle="dropdown">Supplier <span class="caret"></span></a>
+                            <ul class="dropdown-menu" role="menu">
+                                <li><a href="../Store/UpdateSupplier.aspx">Update Supplier</a></li>
+                                <li><a href="../Store/BulkUpdateSuppliers.aspx">Bulk Update Supplier</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="../Logout.aspx">Logout</a></li>
+
+                        <% } %>
+
+                        <% else %>
+                        <% { %>
+
+                        <li class="dropdown">
+                            <a href="..#" class="dropdown-toggle" data-toggle="dropdown">List <span class="caret"></span></a>
+                            <ul class="dropdown-menu" role="menu">
+                                <li><a href="../Store/POList.aspx">Purchase Order List</a></li>
+                                <li><a href="../Store/DisbursementList.aspx">Disbursement List</a></li>
+                                <li><a href="../Store/InventoryList.aspx">Inventory List</a></li>
+                                <li><a href="../Store/AdjustmentVoucherList.aspx">Adjustment Voucher List</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="../Store/GenerateReport.aspx">Generate Report</a></li>
+                        <li><a href="../Store/StoreDelegate.aspx">Delegate</a></li>
+                        <li><a href="../Logout.aspx">Logout</a></li>
+
+                        <% } %>
+                        <% } %>
+
+                        <!-- SUPERVISOR END -->
+                        <!-- MANAGER START -->
+
+                        <% if (lbEmployeeTitle.Text.Equals("Manager")) %>
+                        <% { %>
+
+                        <% if (lbEmployeeDelegate.Text.Equals("True")) %>
+                        <% { %>
+
+                        <li><a href="../Store/StoreDelegate.aspx">Delegate</a></li>
+                        <li><a href="../Logout.aspx">Logout</a></li>
+
+                        <% } %>
+
+                        <% else if (lbStoreSupervisorDelegate.Text.Equals("True"))%>
+                        <% { %>
+
+                        <li class="dropdown">
+                            <a href="..#" class="dropdown-toggle" data-toggle="dropdown">List <span class="caret"></span></a>
+                            <ul class="dropdown-menu" role="menu">
+                                <li><a href="../Store/POList.aspx">Purchase Order List</a></li>
+                                <li><a href="../Store/DisbursementList.aspx">Disbursement List</a></li>
+                                <li><a href="../Store/InventoryList.aspx">Inventory List</a></li>
+                                <li><a href="../Store/AdjustmentVoucherList.aspx">Adjustment Voucher List</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="../Store/GenerateReport.aspx">Generate Report</a></li>
+                        <li class="dropdown">
+                            <a href="..#" class="dropdown-toggle" data-toggle="dropdown">Supplier <span class="caret"></span></a>
+                            <ul class="dropdown-menu" role="menu">
+                                <li><a href="../Store/UpdateSupplier.aspx">Update Supplier</a></li>
+                                <li><a href="../Store/BulkUpdateSuppliers.aspx">Bulk Update Supplier</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="../Logout.aspx">Logout</a></li>
+
+                        <% } %>
+
+                        <% else %>
+                        <% { %>
+
+                        <li class="dropdown">
+                            <a href="..#" class="dropdown-toggle" data-toggle="dropdown">List <span class="caret"></span></a>
+                            <ul class="dropdown-menu" role="menu">
+                                <li><a href="../Store/POList.aspx">Purchase Order List</a></li>
+                                <li><a href="../Store/DisbursementList.aspx">Disbursement List</a></li>
+                                <li><a href="../Store/InventoryList.aspx">Inventory List</a></li>
+                                <li><a href="../Store/AdjustmentVoucherList.aspx">Adjustment Voucher List</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="../Store/GenerateReport.aspx">Generate Report</a></li>
+                        <li><a href="../Store/StoreDelegate.aspx">Delegate</a></li>
+                        <li class="dropdown">
+                            <a href="..#" class="dropdown-toggle" data-toggle="dropdown">Supplier <span class="caret"></span></a>
+                            <ul class="dropdown-menu" role="menu">
+                                <li><a href="../Store/UpdateSupplier.aspx">Update Supplier</a></li>
+                                <li><a href="../Store/BulkUpdateSuppliers.aspx">Bulk Update Supplier</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="../Logout.aspx">Logout</a></li>
+
+                        <% } %>
+                        <% } %>
+
+                        <!-- MANAGER END -->
+                        <!-- STORE END -->
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+        <!-- End of Menu-->
+        <asp:ContentPlaceHolder ID="Body" runat="server">
+        </asp:ContentPlaceHolder>
+    </form>
+</body>
+</html>

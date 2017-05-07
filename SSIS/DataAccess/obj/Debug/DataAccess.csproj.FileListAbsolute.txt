@@ -1,0 +1,72 @@
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\SSIS\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\SSIS\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\SSIS\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\SSIS\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\SSIS\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\SSIS\DataAccess\bin\Debug\Model.dll
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\SSIS\DataAccess\bin\Debug\Model.pdb
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\SSIS\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\SSIS\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\SSIS\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\SSIS\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\SSIS\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\user\Desktop\SSIS\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\user\Desktop\SSIS\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\user\Desktop\SSIS\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\user\Desktop\SSIS\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\SSIS\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\SSIS\DataAccess\bin\Debug\Model.dll
+C:\Users\user\Desktop\SSIS\DataAccess\bin\Debug\Model.pdb
+C:\Users\user\Desktop\SSIS\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\SSIS\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\SSIS\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SSIS\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\user\Desktop\SSIS\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\3012017\SSIS\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\3012017\SSIS\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\3012017\SSIS\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\3012017\SSIS\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\3012017\SSIS\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\3012017\SSIS\DataAccess\bin\Debug\Model.dll
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\3012017\SSIS\DataAccess\bin\Debug\Model.pdb
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\3012017\SSIS\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\3012017\SSIS\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\3012017\SSIS\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\3012017\SSIS\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\3012017\SSIS\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\31012017\SSIS\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\31012017\SSIS\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\31012017\SSIS\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\31012017\SSIS\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\31012017\SSIS\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\31012017\SSIS\DataAccess\bin\Debug\Model.dll
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\31012017\SSIS\DataAccess\bin\Debug\Model.pdb
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\31012017\SSIS\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\31012017\SSIS\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\31012017\SSIS\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\31012017\SSIS\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\31012017\SSIS\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\1022017\SSIS\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\1022017\SSIS\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\1022017\SSIS\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\1022017\SSIS\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\1022017\SSIS\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\1022017\SSIS\DataAccess\bin\Debug\Model.dll
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\1022017\SSIS\DataAccess\bin\Debug\Model.pdb
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\1022017\SSIS\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\1022017\SSIS\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\1022017\SSIS\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\1022017\SSIS\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\1022017\SSIS\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\02022017\SSIS\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\02022017\SSIS\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\02022017\SSIS\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\02022017\SSIS\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\02022017\SSIS\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\02022017\SSIS\DataAccess\bin\Debug\Model.dll
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\02022017\SSIS\DataAccess\bin\Debug\Model.pdb
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\02022017\SSIS\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\02022017\SSIS\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\02022017\SSIS\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\02022017\SSIS\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\02022017\SSIS\DataAccess\obj\Debug\DataAccess.pdb

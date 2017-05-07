@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="29065e16aa444b328126410381d98ece" Name="Diagram1">
+        <EntityTypeShape EntityType="SA43Team2StoreDBModel.Adjustment" Width="1.5" PointX="7.5" PointY="8.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="SA43Team2StoreDBModel.AdjustmentDetail" Width="1.5" PointX="9.75" PointY="9" IsExpanded="true" />
+        <EntityTypeShape EntityType="SA43Team2StoreDBModel.CollectionPointDetail" Width="1.5" PointX="0.75" PointY="9.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="SA43Team2StoreDBModel.Department" Width="1.5" PointX="3" PointY="9.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="SA43Team2StoreDBModel.Disbursement" Width="1.5" PointX="9.75" PointY="12.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="SA43Team2StoreDBModel.Employee" Width="1.5" PointX="5.25" PointY="12.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="SA43Team2StoreDBModel.InventoryStock" Width="1.5" PointX="3" PointY="3.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="SA43Team2StoreDBModel.OutstandingInfo" Width="1.5" PointX="5.25" PointY="8.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="SA43Team2StoreDBModel.PurchaseOrder" Width="1.5" PointX="7.5" PointY="12.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="SA43Team2StoreDBModel.PurchaseOrderDetail" Width="1.5" PointX="12.75" PointY="13" IsExpanded="true" />
+        <EntityTypeShape EntityType="SA43Team2StoreDBModel.Requisition" Width="1.5" PointX="7.5" PointY="16.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="SA43Team2StoreDBModel.RequisitionDetail" Width="1.5" PointX="9.75" PointY="17" IsExpanded="true" />
+        <EntityTypeShape EntityType="SA43Team2StoreDBModel.Supplier" Width="1.5" PointX="7.5" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="SA43Team2StoreDBModel.sysdiagram" Width="1.5" PointX="5.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SA43Team2StoreDBModel.View_2" Width="1.5" PointX="9.75" PointY="0.75" IsExpanded="true" />
+        <AssociationConnector Association="SA43Team2StoreDBModel.FK__Adjustmen__EmpID__2F10007B" ManuallyRouted="false" />
+        <AssociationConnector Association="SA43Team2StoreDBModel.FK__Adjustmen__Vouch__31EC6D26" ManuallyRouted="false" />
+        <AssociationConnector Association="SA43Team2StoreDBModel.FK__Adjustmen__ItemN__32E0915F" ManuallyRouted="false" />
+        <AssociationConnector Association="SA43Team2StoreDBModel.FK__Adjustmen__Suppl__33D4B598" ManuallyRouted="false" />
+        <AssociationConnector Association="SA43Team2StoreDBModel.FK__Departmen__Colle__145C0A3F" ManuallyRouted="false" />
+        <AssociationConnector Association="SA43Team2StoreDBModel.FK__Disbursem__Depar__22AA2996" ManuallyRouted="false" />
+        <AssociationConnector Association="SA43Team2StoreDBModel.FK__Outstandi__Depar__37A5467C" ManuallyRouted="false" />
+        <AssociationConnector Association="SA43Team2StoreDBModel.FK_Department_EmpID" ManuallyRouted="false" />
+        <AssociationConnector Association="SA43Team2StoreDBModel.FK_Employee_DepartmentID" ManuallyRouted="false" />
+        <AssociationConnector Association="SA43Team2StoreDBModel.FK__Disbursem__ItemN__239E4DCF" ManuallyRouted="false" />
+        <AssociationConnector Association="SA43Team2StoreDBModel.FK_Disbursement_RequisitionID" ManuallyRouted="false" />
+        <AssociationConnector Association="SA43Team2StoreDBModel.FK__PurchaseO__Appro__276EDEB3" ManuallyRouted="false" />
+        <AssociationConnector Association="SA43Team2StoreDBModel.FK__PurchaseO__Reque__267ABA7A" ManuallyRouted="false" />
+        <AssociationConnector Association="SA43Team2StoreDBModel.FK__Requisiti__EmpID__1A14E395" ManuallyRouted="false" />
+        <AssociationConnector Association="SA43Team2StoreDBModel.FK__Outstandi__ItemN__36B12243" ManuallyRouted="false" />
+        <AssociationConnector Association="SA43Team2StoreDBModel.FK__PurchaseO__ItemN__2B3F6F97" ManuallyRouted="false" />
+        <AssociationConnector Association="SA43Team2StoreDBModel.FK__Requisiti__ItemN__1DE57479" ManuallyRouted="false" />
+        <AssociationConnector Association="SA43Team2StoreDBModel.FK__PurchaseOr__POID__2C3393D0" ManuallyRouted="false" />
+        <AssociationConnector Association="SA43Team2StoreDBModel.FK__PurchaseO__Suppl__2A4B4B5E" ManuallyRouted="false" />
+        <AssociationConnector Association="SA43Team2StoreDBModel.FK__Requisiti__Requi__1CF15040" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

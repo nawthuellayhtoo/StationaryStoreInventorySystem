@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/DelegateAuthority" android:title="@string/DelegateAuthority"
+        android:orderInCategory="101"/>
+    <item android:id="@+id/AssignRep" android:title="@string/AssignRep"
+        android:orderInCategory="102"/>
+    <item android:id="@+id/Logout" android:title="@string/Logout"
+        android:orderInCategory="103"/>
+
+</menu>

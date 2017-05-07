@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.joash.ad">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".DepartmentRepActivity">
+        </activity>
+
+        <activity android:name=".ClerkActivity" />
+        <activity android:name=".SupervisorActivity" />
+
+
+
+        <activity
+            android:name=".POActivity"
+            android:parentActivityName=".SupervisorActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".SupervisorActivity"/>
+        </activity>
+
+
+
+        <activity android:name=".DepartmentHeadActivity" />
+
+        <activity
+            android:name=".DelegateAuthorityActivity"
+            android:parentActivityName=".DepartmentHeadActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".DepartmentHeadActivity"/>
+        </activity>
+
+        <activity
+            android:name=".AssignRepresentativeActivity"
+            android:parentActivityName=".DepartmentHeadActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".DepartmentHeadActivity"/>
+        </activity>
+
+        <activity
+            android:name=".ApproveRequisitionActivity"
+            android:parentActivityName=".DepartmentHeadActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".DepartmentHeadActivity"/>
+        </activity>
+
+
+        <activity
+            android:name=".DisbursementActivity"
+            android:parentActivityName=".ClerkActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".ClerkActivity"/>
+        </activity>
+
+
+
+        <activity
+            android:name=".CollectionActivity"
+            android:parentActivityName=".DisbursementActivity">
+        <meta-data
+            android:name="android.support.PARENT_ACTIVITY"
+            android:value=".DisbursementActivity"
+            />
+        </activity>
+
+
+        <activity
+            android:name=".DetailDisbursementActivity"
+            android:parentActivityName=".DisbursementActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".DisbursementActivity"/>
+
+        </activity>
+    </application>
+
+</manifest>

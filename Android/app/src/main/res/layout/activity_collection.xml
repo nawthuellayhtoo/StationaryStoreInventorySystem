@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_collection"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    tools:context="com.example.joash.ad.CollectionActivity">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="20dp" />
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <TextView
+            android:text="Department ID:"
+            android:layout_width="152dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView15"
+            android:textColor="@color/black"
+            android:textSize="20dp"
+            />
+        <TextView
+            android:text="depid"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:textSize="18dp"
+            android:id="@+id/textView16" />
+
+    </LinearLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="30dp" />
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <TextView
+            android:text="Representative:"
+            android:layout_width="158dp"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:id="@+id/textView26"
+            android:textSize="20dp"
+            android:layout_below="@+id/textView15"
+            />
+        <TextView
+            android:text="drep"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:textSize="18dp"
+            android:id="@+id/textView27" />
+
+    </LinearLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="30dp" />
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:text="Collection Point:"
+            android:layout_width="159dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView28"
+            android:textSize="20dp"
+            android:textColor="@color/black"
+            />
+
+        <TextView
+            android:text="collectionpt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView29"
+            android:textSize="18dp"
+            android:textColor="@color/black"
+            />
+    </LinearLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="30dp" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:text="Collection Time:"
+            android:layout_width="161dp"
+            android:textColor="@color/black"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:id="@+id/textView30"
+            />
+
+        <TextView
+            android:text="time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="18dp"
+            android:id="@+id/textView31"
+            android:textColor="@color/black" />
+
+    </LinearLayout>
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="150dp" />
+
+
+
+
+    <Button
+        android:text="Get Item List"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="23dp"
+        android:id="@+id/button5"
+        android:background="@color/colorPrimary"
+        android:textColor="@color/white" />
+</LinearLayout>

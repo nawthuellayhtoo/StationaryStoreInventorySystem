@@ -1,0 +1,28 @@
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\SSIS\Model\bin\Debug\Model.dll
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\SSIS\Model\bin\Debug\Model.pdb
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\SSIS\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\SSIS\Model\obj\Debug\Model.dll
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\SSIS\Model\obj\Debug\Model.pdb
+C:\Users\user\Desktop\SSIS\Model\bin\Debug\Model.dll
+C:\Users\user\Desktop\SSIS\Model\bin\Debug\Model.pdb
+C:\Users\user\Desktop\SSIS\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SSIS\Model\obj\Debug\Model.dll
+C:\Users\user\Desktop\SSIS\Model\obj\Debug\Model.pdb
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\3012017\SSIS\Model\bin\Debug\Model.dll
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\3012017\SSIS\Model\bin\Debug\Model.pdb
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\3012017\SSIS\Model\obj\Debug\Model.dll
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\3012017\SSIS\Model\obj\Debug\Model.pdb
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\3012017\SSIS\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\31012017\SSIS\Model\bin\Debug\Model.dll
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\31012017\SSIS\Model\bin\Debug\Model.pdb
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\31012017\SSIS\Model\obj\Debug\Model.dll
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\31012017\SSIS\Model\obj\Debug\Model.pdb
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\1022017\SSIS\Model\bin\Debug\Model.dll
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\1022017\SSIS\Model\bin\Debug\Model.pdb
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\1022017\SSIS\Model\obj\Debug\Model.dll
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\1022017\SSIS\Model\obj\Debug\Model.pdb
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\02022017\SSIS\Model\bin\Debug\Model.dll
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\02022017\SSIS\Model\bin\Debug\Model.pdb
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\02022017\SSIS\Model\obj\Debug\Model.dll
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\02022017\SSIS\Model\obj\Debug\Model.pdb
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\02022017\SSIS\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache

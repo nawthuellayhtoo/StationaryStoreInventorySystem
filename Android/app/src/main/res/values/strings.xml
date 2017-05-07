@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LOGIC UNIVERSITY</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="Login">LOGIN</string>
+    <string name="Clear">Clear</string>
+    <string name="DelegateAuthority">Delegate Authority</string>
+    <string name="AssignRep">Assign Representative</string>
+    <string name="Logout">Logout</string>
+    <string name="date_button_set">Set Date</string>
+    <string name="date_selected"></string>
+    <string name="UDS">Ready For Collection List</string>
+    <string name="DisbursementList">Disbursement List</string>
+</resources>

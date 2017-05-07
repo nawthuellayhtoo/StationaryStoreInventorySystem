@@ -1,0 +1,69 @@
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\SSIS\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\SSIS\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\SSIS\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\SSIS\BusinessLogic\bin\Debug\Model.dll
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\SSIS\BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\SSIS\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\SSIS\BusinessLogic\bin\Debug\Model.pdb
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\SSIS\BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\SSIS\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\SSIS\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\SSIS\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\user\Desktop\SSIS\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\user\Desktop\SSIS\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\user\Desktop\SSIS\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\user\Desktop\SSIS\BusinessLogic\bin\Debug\Model.dll
+C:\Users\user\Desktop\SSIS\BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\SSIS\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\user\Desktop\SSIS\BusinessLogic\bin\Debug\Model.pdb
+C:\Users\user\Desktop\SSIS\BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\SSIS\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SSIS\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\user\Desktop\SSIS\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\3012017\SSIS\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\3012017\SSIS\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\3012017\SSIS\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\3012017\SSIS\BusinessLogic\bin\Debug\Model.dll
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\3012017\SSIS\BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\3012017\SSIS\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\3012017\SSIS\BusinessLogic\bin\Debug\Model.pdb
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\3012017\SSIS\BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\3012017\SSIS\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\3012017\SSIS\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\3012017\SSIS\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\31012017\SSIS\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\31012017\SSIS\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\31012017\SSIS\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\31012017\SSIS\BusinessLogic\bin\Debug\Model.dll
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\31012017\SSIS\BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\31012017\SSIS\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\31012017\SSIS\BusinessLogic\bin\Debug\Model.pdb
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\31012017\SSIS\BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\31012017\SSIS\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\31012017\SSIS\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\31012017\SSIS\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\1022017\SSIS\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\1022017\SSIS\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\1022017\SSIS\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\1022017\SSIS\BusinessLogic\bin\Debug\Model.dll
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\1022017\SSIS\BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\1022017\SSIS\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\1022017\SSIS\BusinessLogic\bin\Debug\Model.pdb
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\1022017\SSIS\BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\1022017\SSIS\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\1022017\SSIS\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\1022017\SSIS\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\02022017\SSIS\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\02022017\SSIS\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\02022017\SSIS\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\02022017\SSIS\BusinessLogic\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\02022017\SSIS\BusinessLogic\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\02022017\SSIS\BusinessLogic\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\02022017\SSIS\BusinessLogic\bin\Debug\Model.dll
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\02022017\SSIS\BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\02022017\SSIS\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\02022017\SSIS\BusinessLogic\bin\Debug\Model.pdb
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\02022017\SSIS\BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\02022017\SSIS\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\02022017\SSIS\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\ThueLlay\Documents\Visual Studio 2015\Projects\SSIS_master\02022017\SSIS\BusinessLogic\obj\Debug\BusinessLogic.pdb
